@@ -32,4 +32,5 @@ train.csv: Sample training data in CSV format.# Chess-AI-Machine-Learning
 
 ## Credit
 Credit to "Global Hack Week Games: Train an AI to Play Chess" for the foundation code
+
 https://www.kaggle.com/competitions/train-an-ai-to-play-chess
